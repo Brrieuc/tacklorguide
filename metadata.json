@@ -1,0 +1,7 @@
+{
+  "name": "2nd Copy of Tacklor Guide",
+  "description": "Une interface intelligente pour optimiser votre stratégie de pêche en fonction des conditions environnementales.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
